@@ -37,4 +37,4 @@ if __name__ == "__main__":
         print(USAGE)
         exit(1)
     test_theory()
-    file_checks(sys.argv[1]) #iuwefqh
+    file_checks(sys.argv[1])
